@@ -47,8 +47,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zRafaX&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do zRafaX"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRafaX&layout=compact&langs_count=6&theme=radical&locale=pt-br&exclude_repo=LibreHardwareMonitor" alt="Linguagens mais usadas"/>
 </p>
-
-### **Sequência de Contribuições**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zRafaX&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições no GitHub" height="180" />
-</p>
