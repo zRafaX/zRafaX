@@ -41,9 +41,3 @@
 ![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=zRafaX&theme=github-compact&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub%20-%20Último%20Ano)
 
 *O gráfico acima mostra o meu histórico de commits e pull requests.*
-
-### **Estatísticas Gerais do GitHub**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zRafaX&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do zRafaX"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zRafaX&layout=compact&langs_count=6&theme=radical&locale=pt-br&exclude_repo=LibreHardwareMonitor" alt="Linguagens mais usadas"/>
-</p>
