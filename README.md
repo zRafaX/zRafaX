@@ -1,6 +1,3 @@
-gITHUB PROFILE:
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dabf7,100:228be6&height=120&section=header&text=RaFa%20&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
