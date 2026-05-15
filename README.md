@@ -11,8 +11,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line" width="100%" height="10" />
 </p>
 
-## My Skills
-
 ### **Programming Languages & Tools**
 <p align="left">
   <img alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
