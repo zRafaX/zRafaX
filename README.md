@@ -33,8 +33,6 @@
 ### **Operating Systems**
 <p align="left">
   <img alt="Windows 11" title="Windows 11" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
-  <img alt="Linux Mint" title="Linux Mint" width="40px" style="padding-right:10px;" src="https://images.icon-icons.com/159/PNG/256/logo_linux_mint_22361.png" />
-</p>
 
 ## Contributions
 
