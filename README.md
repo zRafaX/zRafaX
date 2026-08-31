@@ -33,9 +33,3 @@
 ### **Operating Systems**
 <p align="left">
   <img alt="Windows 11" title="Windows 11" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
-
-## Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zRafaX&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity%20-%20Last%20Year)
-
-*The graph above shows my commit and pull request history.*
